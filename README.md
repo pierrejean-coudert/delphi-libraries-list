@@ -18,7 +18,7 @@ Duck Typing
 - simple duck typing to Delphi Objects (easy RTTI) : http://code.google.com/p/duckduckdelphi/
 
 
-Onject Serialization
+Object Serialization
 --------------------
 - JSON
   - Chimera (XE2)
@@ -82,7 +82,14 @@ Data Structure
 - http://www.boyet.com/FixedArticles/EZDSL.html
 
 
-Profiling
----------
-- Sampling Profiler: http://www.delphitools.info/samplingprofiler/
-- source code instrumenting profiler : http://code.google.com/p/gpprofile2011/
+
+Graphic
+-------
+- Computer Vision: OpenCV bindings :https://github.com/Laex/Delphi-OpenCV
+- Graphics32: http://graphics32.org/wiki/
+
+Tools
+-----
+- Profiling
+  - Sampling Profiler: http://www.delphitools.info/samplingprofiler/
+  - source code instrumenting profiler : http://code.google.com/p/gpprofile2011/
