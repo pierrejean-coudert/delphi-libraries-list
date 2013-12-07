@@ -39,8 +39,8 @@ Networking
 
 DB - ORM
 ---------
-https://code.google.com/p/delphi-orm/
-
+- Delphi-ORM: https://code.google.com/p/delphi-orm/
+- mORMot:  http://synopse.info/fossil/wiki?name=SQLite3+Framework
 
 Threading
 ---------
@@ -53,6 +53,12 @@ DataBindings
 - DSharp 
   - repo: https://bitbucket.org/sglienke/dsharp
   - web site: http://delphisorcery.blogspot.fr/
+
+
+Scripting
+---------
+- DWScript: http://code.google.com/p/dwscript/
+- Python-4-Delphi : http://code.google.com/p/python4delphi/
 
 Data Structure
 --------------
