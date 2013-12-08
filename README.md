@@ -55,15 +55,25 @@ List of Delphi Libraries and Frameworks
 - Jenkins / Hudson integration : http://christerblog.wordpress.com/2010/04/25/using-hudson-to-build-delphi-projects/
 
 
+### Math
+
+- TPMath (scientific library): http://www.unilim.fr/pages_perso/jean.debord/tpmath/tpmath.htm
+
 ### Networking
 
 - ZeroMQ Delphi bindings https://github.com/bvarga/delphizmq
 
 
+### Internet / Web
+- Delphi Chromium Embedded 3: http://code.google.com/p/dcef3/
+- Delphi Chromium Embedded: http://code.google.com/p/delphichromiumembedded/
+
 ### DB - ORM
 
 - Delphi-ORM: https://code.google.com/p/delphi-orm/
 - mORMot:  http://synopse.info/fossil/wiki?name=SQLite3+Framework
+- ZeosLib (database components): http://sourceforge.net/projects/zeoslib/
+
 
 
 ### Threading
@@ -91,15 +101,17 @@ List of Delphi Libraries and Frameworks
 - http://www.boyet.com/FixedArticles/EZDSL.html
 
 
-
-
 ### Graphic
 
 - OpenGL, GLScene: http://glscene.sourceforge.net
 - Computer Vision: OpenCV bindings :https://github.com/Laex/Delphi-OpenCV
 - GDI+ : http://sourceforge.net/projects/delphigdiplus/
 - Graphics32: http://graphics32.org/wiki/
+- DSPack (Direct Show): http://code.google.com/p/dspack/
 
+### ZIP
+
+- 7Zip bindings: http://code.google.com/p/d7zip/
 
 ### Tools
 - Profiling
