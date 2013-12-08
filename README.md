@@ -3,8 +3,8 @@ delphi-libraries-list
 
 List of Delphi Libraries and Frameworks
 
-Inversion of Control - Dependency injection
--------------------------------------------
+
+### Inversion of Control - Dependency injection
 
 - Spring4D 
   - repo: https://bitbucket.org/sglienke/spring4d
@@ -12,14 +12,15 @@ Inversion of Control - Dependency injection
   - Nick Hodges Talk: Dependency Injection and the Delphi Spring Framework : http://www.youtube.com/watch?v=8iB_ppvpjxM
   
 
-Duck Typing
------------
+
+### Duck Typing
 
 - simple duck typing to Delphi Objects (easy RTTI) : http://code.google.com/p/duckduckdelphi/
 
 
-Object Serialization
---------------------
+
+### Object Serialization
+
 - JSON
   - Chimera (XE2)
     - web site: http://arcana.sivv.com/chimera
@@ -29,8 +30,9 @@ Object Serialization
   - JSON parsing in mORMot : http://blog.synopse.info/post/2011/06/02/Fast-JSON-parsing
 
 
-Unit Testing
-------------
+
+### Unit Testing
+
 - DUnitX: https://github.com/VSoftTechnologies/DUnitX
   - Article: http://www.finalbuilder.com/Resources/Blogs/PostId/697/introducing-dunitx.aspx
 - Dunit: http://dunit.sourceforge.net/
@@ -47,49 +49,59 @@ Unit Testing
   - http://www.gearheadforhire.com/articles/ruby/win32-autogui/using-ruby-to-drive-windows-applications
   - OpenCTF: http://openctf.sourceforge.net/
  
-Build - Continuous integration
-------------------------------
+
+### Build - Continuous integration
+
 - Jenkins / Hudson integration : http://christerblog.wordpress.com/2010/04/25/using-hudson-to-build-delphi-projects/
 
-Networking
-----------
+
+### Networking
+
 - ZeroMQ Delphi bindings https://github.com/bvarga/delphizmq
 
-DB - ORM
----------
+
+### DB - ORM
+
 - Delphi-ORM: https://code.google.com/p/delphi-orm/
 - mORMot:  http://synopse.info/fossil/wiki?name=SQLite3+Framework
 
-Threading
----------
+
+### Threading
+
 - OmniThread Library: http://code.google.com/p/omnithreadlibrary/
  
-DataBindings
--------------
+
+### DataBindings
+
 - DSharp 
   - repo: https://bitbucket.org/sglienke/dsharp
   - web site: http://delphisorcery.blogspot.fr/
 
 
-Scripting
----------
+
+### Scripting
+
 - DWScript: http://code.google.com/p/dwscript/
 - Python-4-Delphi : http://code.google.com/p/python4delphi/
 - Delphi Javascript: http://code.google.com/p/delphi-javascript/
 
-Data Structure
---------------
+
+### Data Structure
+
 - http://www.boyet.com/FixedArticles/EZDSL.html
 
 
 
-Graphic
--------
+
+### Graphic
+
+- OpenGL, GLScene: http://glscene.sourceforge.net
 - Computer Vision: OpenCV bindings :https://github.com/Laex/Delphi-OpenCV
+- GDI+ : http://sourceforge.net/projects/delphigdiplus/
 - Graphics32: http://graphics32.org/wiki/
 
-Tools
------
+
+### Tools
 - Profiling
   - Sampling Profiler: http://www.delphitools.info/samplingprofiler/
   - source code instrumenting profiler : http://code.google.com/p/gpprofile2011/
