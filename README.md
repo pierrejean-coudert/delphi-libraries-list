@@ -10,7 +10,8 @@ List of Delphi Libraries and Frameworks
   - repo: https://bitbucket.org/sglienke/spring4d
   - Article: http://www.nickhodges.com/page/Dependency-Injection-Series.aspx
   - Nick Hodges Talk: Dependency Injection and the Delphi Spring Framework : http://www.youtube.com/watch?v=8iB_ppvpjxM
-  
+- Emballo (not currently maintained)
+  - repo: https://code.google.com/p/emballo/
 
 
 ### Duck Typing
@@ -28,6 +29,8 @@ List of Delphi Libraries and Frameworks
     - web site: http://code.google.com/p/superobject/
     - documentation: http://superobject.googlecode.com/git/readme.html
   - JSON parsing in mORMot : http://blog.synopse.info/post/2011/06/02/Fast-JSON-parsing
+- DB <-> Object mapping
+  -tiOPF:  http://tiopf.sourceforge.net/index.shtml
 
 
 
@@ -62,11 +65,16 @@ List of Delphi Libraries and Frameworks
 ### Networking
 
 - ZeroMQ Delphi bindings https://github.com/bvarga/delphizmq
+- Indy (Internet protocol components): http://www.indyproject.org/index.en.aspx
 
 
 ### Internet / Web
-- Delphi Chromium Embedded 3: http://code.google.com/p/dcef3/
-- Delphi Chromium Embedded: http://code.google.com/p/delphichromiumembedded/
+- Embeddable browser
+  - Delphi Chromium Embedded 3: http://code.google.com/p/dcef3/
+  - Delphi Chromium Embedded: http://code.google.com/p/delphichromiumembedded/
+- Web frameworks
+  - Delphi On Rails https://code.google.com/p/delphionrails/
+  - delphi MVC framework : https://code.google.com/p/delphimvcframework/
 
 ### DB - ORM
 
