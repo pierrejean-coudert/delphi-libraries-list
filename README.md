@@ -8,7 +8,7 @@ List of Delphi Libraries and Frameworks
 
 - Spring4D 
   - repo: https://bitbucket.org/sglienke/spring4d
-  - Article: http://www.nickhodges.com/page/Dependency-Injection-Series.aspx
+  - Article: http://delphisorcery.blogspot.ch/2013/12/dependency-injection-best-practices.html
   - Nick Hodges Talk: Dependency Injection and the Delphi Spring Framework : http://www.youtube.com/watch?v=8iB_ppvpjxM
 - Emballo (not currently maintained)
   - repo: https://code.google.com/p/emballo/
