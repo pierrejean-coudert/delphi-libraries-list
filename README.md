@@ -8,11 +8,14 @@ List of Delphi Libraries and Frameworks
 
 - Spring4D 
   - repo: https://bitbucket.org/sglienke/spring4d
-  - Article: http://delphisorcery.blogspot.ch/2013/12/dependency-injection-best-practices.html
   - Nick Hodges Talk: Dependency Injection and the Delphi Spring Framework : http://www.youtube.com/watch?v=8iB_ppvpjxM
+
 - Emballo (not currently maintained)
   - repo: https://code.google.com/p/emballo/
 
+- Good Readings
+  - http://blog.synopse.info/post/2012/10/14/Interfaces-in-practice%3A-dependency-injection%2C-stubs-and-mocks
+  - http://delphisorcery.blogspot.ch/2013/12/dependency-injection-best-practices.html
 
 ### Duck Typing
 
@@ -39,6 +42,11 @@ List of Delphi Libraries and Frameworks
 - DUnitX: https://github.com/VSoftTechnologies/DUnitX
   - Article: http://www.finalbuilder.com/Resources/Blogs/PostId/697/introducing-dunitx.aspx
 - Dunit: http://dunit.sourceforge.net/
+
+- mORMot Mocks
+  - Unit testing - see http://blog.synopse.info/post/2010/07/23/Unit-Testing-light-in-Delphi
+  - Stubs and Mocks - see http://blog.synopse.info/post/2012/10/14/Stubs-and-Mocks-for-Delphi-with-mORMot
+
 - Delphi-Mocks 
   - repo: https://github.com/VSoftTechnologies/Delphi-Mocks
   - Delphi-Mocks Article
@@ -66,7 +74,9 @@ List of Delphi Libraries and Frameworks
 
 - ZeroMQ Delphi bindings https://github.com/bvarga/delphizmq
 - Indy (Internet protocol components): http://www.indyproject.org/index.en.aspx
-
+- mORMot, n-Tier / Client-Server
+  - http://blog.synopse.info/post/2012/03/07/Interface-based-services      
+  - http://blog.synopse.info/post/2010/07/18/DataSnap-like-Client-Server-JSON-RESTful-Services-in-Delphi-7-2010
 
 ### Internet / Web
 - Embeddable browser
@@ -76,6 +86,7 @@ List of Delphi Libraries and Frameworks
   - Delphi On Rails https://code.google.com/p/delphionrails/
   - delphi MVC framework : https://code.google.com/p/delphimvcframework/
   - xxm: http://xxm.sourceforge.net/
+- Http server http://blog.synopse.info/post/2011/03/11/HTTP-server-using-fast-http.sys-kernel-mode-server 
 
 ### DB - ORM
 
@@ -84,6 +95,11 @@ List of Delphi Libraries and Frameworks
 - ZeosLib (database components): http://sourceforge.net/projects/zeoslib/
 - SQLite wrapper: https://github.com/stijnsanders/TSQLite
 - MongoDB connector: https://github.com/stijnsanders/TMongoWire
+
+### Reporting
+
+  - Report from code - see http://blog.synopse.info/post/2010/06/30/Making-report-from-code
+  - PDF export - see http://blog.synopse.info/category/Open-Source-Projects/Synopse-PDF-engine
 
 
 ### Threading
@@ -110,6 +126,11 @@ List of Delphi Libraries and Frameworks
 
 - http://www.boyet.com/FixedArticles/EZDSL.html
 - The Delphi Container Library: http://sourceforge.net/projects/dclx/
+
+### User Interface
+
+- Task Dialogs: http://blog.synopse.info/post/2011/03/05/Open-Source-SynTaskDialog-unit-for-XP%2CVista%2CSeven
+ 
 
 ### Graphic
 
