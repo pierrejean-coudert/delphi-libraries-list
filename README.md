@@ -75,13 +75,15 @@ List of Delphi Libraries and Frameworks
 - Web frameworks
   - Delphi On Rails https://code.google.com/p/delphionrails/
   - delphi MVC framework : https://code.google.com/p/delphimvcframework/
+  - xxm: http://xxm.sourceforge.net/
 
 ### DB - ORM
 
 - Delphi-ORM: https://code.google.com/p/delphi-orm/
 - mORMot:  http://synopse.info/fossil/wiki?name=SQLite3+Framework
 - ZeosLib (database components): http://sourceforge.net/projects/zeoslib/
-
+- SQLite wrapper: https://github.com/stijnsanders/TSQLite
+- MongoDB connector: https://github.com/stijnsanders/TMongoWire
 
 
 ### Threading
@@ -94,7 +96,6 @@ List of Delphi Libraries and Frameworks
 - DSharp 
   - repo: https://bitbucket.org/sglienke/dsharp
   - web site: http://delphisorcery.blogspot.fr/
-
 
 
 ### Scripting
