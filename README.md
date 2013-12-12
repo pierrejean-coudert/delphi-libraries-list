@@ -130,7 +130,7 @@ List of Delphi Libraries and Frameworks
 ### User Interface
 
 - Task Dialogs: http://blog.synopse.info/post/2011/03/05/Open-Source-SynTaskDialog-unit-for-XP%2CVista%2CSeven
- 
+- vcl-styles-utils: Extend the Delphi VCL Styles (XE2+), http://code.google.com/p/vcl-styles-utils/ 
 
 ### Graphic
 
