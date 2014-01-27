@@ -42,6 +42,7 @@ List of Delphi Libraries and Frameworks
 - DUnitX: https://github.com/VSoftTechnologies/DUnitX
   - Article: http://www.finalbuilder.com/Resources/Blogs/PostId/697/introducing-dunitx.aspx
 - Dunit: http://dunit.sourceforge.net/
+- DelphiSpec: https://github.com/RomanYankovsky/DelphiSpec
 
 - mORMot Mocks
   - Unit testing - see http://blog.synopse.info/post/2010/07/23/Unit-Testing-light-in-Delphi
