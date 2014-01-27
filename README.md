@@ -151,6 +151,10 @@ List of Delphi Libraries and Frameworks
 
 - 7Zip bindings: http://code.google.com/p/d7zip/
 
+### Utilities
+
+- GpDelphiUnits: http://code.google.com/p/gpdelphiunits/
+
 ### Tools
 - Profiling
   - Sampling Profiler: http://www.delphitools.info/samplingprofiler/
