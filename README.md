@@ -124,6 +124,7 @@ List of Delphi Libraries and Frameworks
 - Python-4-Delphi : http://code.google.com/p/python4delphi/
 - Delphi Javascript: http://code.google.com/p/delphi-javascript/
 - Lua bindings: https://code.google.com/p/delphimvcframework/source/browse/#svn%2Ftrunk%2Flib%2Fluadelphibinding
+- RemObjects PascalScript: https://github.com/remobjects/pascalscript
 
 
 ### Data Structure
