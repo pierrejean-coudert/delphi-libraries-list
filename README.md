@@ -161,3 +161,4 @@ List of Delphi Libraries and Frameworks
   - Sampling Profiler: http://www.delphitools.info/samplingprofiler/
   - source code instrumenting profiler : http://code.google.com/p/gpprofile2011/
 - Delphi IDE Theme Editor: https://code.google.com/p/delphi-ide-theme-editor/
+- Delphi Dev. Shell Tools: http://code.google.com/p/delphi-dev-shell-tools/
