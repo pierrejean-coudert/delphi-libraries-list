@@ -134,6 +134,7 @@ List of Delphi Libraries and Frameworks
 
 ### User Interface
 
+- TChromeTabs: http://code.google.com/p/delphi-chrome-tabs/
 - SynEdit: http://synedit.sourceforge.net/
 - virtual-treeview: https://code.google.com/p/virtual-treeview/
 - Task Dialogs: http://blog.synopse.info/post/2011/03/05/Open-Source-SynTaskDialog-unit-for-XP%2CVista%2CSeven
