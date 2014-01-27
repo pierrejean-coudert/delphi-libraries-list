@@ -154,6 +154,7 @@ List of Delphi Libraries and Frameworks
 
 ### Utilities
 
+- Castalia Delphi Parser: https://github.com/jacobthurman/Castalia-Delphi-Parser
 - GpDelphiUnits: http://code.google.com/p/gpdelphiunits/
 - libgit2: https://github.com/libgit2/libgit2
 
