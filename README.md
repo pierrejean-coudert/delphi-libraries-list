@@ -107,6 +107,9 @@ List of Delphi Libraries and Frameworks
 
 - OmniThread Library: http://code.google.com/p/omnithreadlibrary/
  
+### Memory-Managers
+
+- SapMM: https://code.google.com/p/sapmm/
 
 ### DataBindings
 
