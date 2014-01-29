@@ -42,6 +42,7 @@ List of Delphi Libraries and Frameworks
 - DUnitX: https://github.com/VSoftTechnologies/DUnitX
   - Article: http://www.finalbuilder.com/Resources/Blogs/PostId/697/introducing-dunitx.aspx
 - Dunit: http://dunit.sourceforge.net/
+- DelphiSpec: https://github.com/RomanYankovsky/DelphiSpec
 
 - mORMot Mocks
   - Unit testing - see http://blog.synopse.info/post/2010/07/23/Unit-Testing-light-in-Delphi
@@ -106,6 +107,9 @@ List of Delphi Libraries and Frameworks
 
 - OmniThread Library: http://code.google.com/p/omnithreadlibrary/
  
+### Memory-Managers
+
+- SapMM: https://code.google.com/p/sapmm/
 
 ### DataBindings
 
@@ -120,6 +124,7 @@ List of Delphi Libraries and Frameworks
 - Python-4-Delphi : http://code.google.com/p/python4delphi/
 - Delphi Javascript: http://code.google.com/p/delphi-javascript/
 - Lua bindings: https://code.google.com/p/delphimvcframework/source/browse/#svn%2Ftrunk%2Flib%2Fluadelphibinding
+- RemObjects PascalScript: https://github.com/remobjects/pascalscript
 
 
 ### Data Structure
@@ -129,6 +134,9 @@ List of Delphi Libraries and Frameworks
 
 ### User Interface
 
+- TChromeTabs: http://code.google.com/p/delphi-chrome-tabs/
+- SynEdit: http://synedit.sourceforge.net/
+- virtual-treeview: https://code.google.com/p/virtual-treeview/
 - Task Dialogs: http://blog.synopse.info/post/2011/03/05/Open-Source-SynTaskDialog-unit-for-XP%2CVista%2CSeven
 - vcl-styles-utils: Extend the Delphi VCL Styles (XE2+), http://code.google.com/p/vcl-styles-utils/ 
 
@@ -144,7 +152,15 @@ List of Delphi Libraries and Frameworks
 
 - 7Zip bindings: http://code.google.com/p/d7zip/
 
+### Utilities
+
+- Castalia Delphi Parser: https://github.com/jacobthurman/Castalia-Delphi-Parser
+- GpDelphiUnits: http://code.google.com/p/gpdelphiunits/
+- libgit2: https://github.com/libgit2/libgit2
+
 ### Tools
 - Profiling
   - Sampling Profiler: http://www.delphitools.info/samplingprofiler/
   - source code instrumenting profiler : http://code.google.com/p/gpprofile2011/
+- Delphi IDE Theme Editor: https://code.google.com/p/delphi-ide-theme-editor/
+- Delphi Dev. Shell Tools: http://code.google.com/p/delphi-dev-shell-tools/
