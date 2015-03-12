@@ -110,6 +110,7 @@ List of Delphi Libraries and Frameworks
 ### Memory-Managers
 
 - SapMM: https://code.google.com/p/sapmm/
+- LeakCheck: https://bitbucket.org/shadow_cs/delphi-leakcheck/ multi-platform memory manager with leak checking and DUnit integration.
 
 ### DataBindings
 
