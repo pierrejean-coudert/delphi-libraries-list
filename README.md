@@ -169,3 +169,4 @@ List of Delphi Libraries and Frameworks
 - Delphi Dev. Shell Tools: http://code.google.com/p/delphi-dev-shell-tools/
 - OmniPascal VS Code Editor: http://www.omnipascal.com/
 - Spider - Delphi profiler: https://github.com/yavfast/dbg-spider
+- Find Usages - https://github.com/rfrezino/RFindUnit
