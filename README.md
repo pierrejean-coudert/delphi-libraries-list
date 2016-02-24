@@ -168,4 +168,4 @@ List of Delphi Libraries and Frameworks
 - Delphi IDE Theme Editor: https://code.google.com/p/delphi-ide-theme-editor/
 - Delphi Dev. Shell Tools: http://code.google.com/p/delphi-dev-shell-tools/
 - OmniPascal VS Code Editor: http://www.omnipascal.com/
-
+- Spider - Delphi profiler: https://github.com/yavfast/dbg-spider
