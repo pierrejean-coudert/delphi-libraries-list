@@ -164,8 +164,8 @@ List of Delphi Libraries and Frameworks
 - Profiling
   - Sampling Profiler: http://www.delphitools.info/samplingprofiler/
   - source code instrumenting profiler : http://code.google.com/p/gpprofile2011/
+  - Spider - Delphi profiler: https://github.com/yavfast/dbg-spider
 - ObjectDebugger : run-time Object Inspector for Delphi VCL applications https://github.com/marcocantu/ObjectDebugger
 - Delphi IDE Theme Editor: https://code.google.com/p/delphi-ide-theme-editor/
 - Delphi Dev. Shell Tools: http://code.google.com/p/delphi-dev-shell-tools/
 - OmniPascal VS Code Editor: http://www.omnipascal.com/
-- Spider - Delphi profiler: https://github.com/yavfast/dbg-spider
