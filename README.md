@@ -141,6 +141,7 @@ List of Delphi Libraries and Frameworks
 - virtual-treeview: https://code.google.com/p/virtual-treeview/
 - Task Dialogs: http://blog.synopse.info/post/2011/03/05/Open-Source-SynTaskDialog-unit-for-XP%2CVista%2CSeven
 - vcl-styles-utils: Extend the Delphi VCL Styles (XE2+), http://code.google.com/p/vcl-styles-utils/ 
+- Free ErrorSoft Vcl Components: https://github.com/errorcalc/FreeEsVCLComponents
 
 ### Graphic
 
