@@ -123,10 +123,14 @@ List of Delphi Libraries and Frameworks
 ### Scripting
 
 - DWScript: http://code.google.com/p/dwscript/
-- Python-4-Delphi : http://code.google.com/p/python4delphi/
+- Python-4-Delphi: http://code.google.com/p/python4delphi/
 - Delphi Javascript: http://code.google.com/p/delphi-javascript/
-- Lua bindings: https://code.google.com/p/delphimvcframework/source/browse/#svn%2Ftrunk%2Flib%2Fluadelphibinding
+- ECMAScript 5 + JIT (SpiderMonkey) / Pascal integration: http://blog.synopse.info/post/2014/04/07/JavaScript-support-in-mORMot-via-SpiderMonkey
+- BESEN, ECMAScript 5 in Object Pascal: https://github.com/bero1985/besen
+- Lua bindings: https://github.com/cxflag203/delphimvcframework/tree/master/lib/luadelphibinding
+- Very Simple Lua https://github.com/Dennis1000/verysimplelua
 - RemObjects PascalScript: https://github.com/remobjects/pascalscript
+- Behavior3 for Delphi https://github.com/Dennis1000/behavior3delphi
 
 
 ### Data Structure
