@@ -115,6 +115,7 @@ List of Delphi Libraries and Frameworks
 
 ### DataBindings
 
+- ReduxDelphi, predictable state container : https://github.com/pierrejean-coudert/ReduxDelphi
 - DSharp 
   - repo: https://bitbucket.org/sglienke/dsharp
   - web site: http://delphisorcery.blogspot.fr/
